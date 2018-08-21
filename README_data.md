@@ -11,3 +11,9 @@ http://rgbd-dataset.cs.washington.edu/dataset/
 
 
 http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm#scene
+
+
+https://www.shapenet.org/download/shapenetsem
+
+https://shapenet.cs.stanford.edu/iccv17/
+https://shapenet.cs.stanford.edu/shrec17/
