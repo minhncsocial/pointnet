@@ -31,3 +31,5 @@ http://rll.berkeley.edu/bigbird/aliases/512ac3e577/
 http://pointclouds.org/media/
 
 http://www.michaelfirman.co.uk/RGBDdatasets/
+
+https://vision.in.tum.de/data/datasets/rgbd-dataset/download
