@@ -34,4 +34,6 @@ http://www.michaelfirman.co.uk/RGBDdatasets/
 
 https://vision.in.tum.de/data/datasets/rgbd-dataset/download
 
+20180822 http://www.scan-net.org/
+
 20180823 http://cseweb.ucsd.edu/~haosu/ 
