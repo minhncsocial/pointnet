@@ -33,3 +33,5 @@ http://pointclouds.org/media/
 http://www.michaelfirman.co.uk/RGBDdatasets/
 
 https://vision.in.tum.de/data/datasets/rgbd-dataset/download
+
+20180823 http://cseweb.ucsd.edu/~haosu/ 
